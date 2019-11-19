@@ -1,0 +1,122 @@
+PokerStars Hand #203854629068: Tournament #2685584612, $28.20+$1.80 USD Hold'em No Limit - Level II (15/30) - 2019/09/01 18:41:08 ET
+Table '2685584612 1' 3-max Seat #3 is the button
+Seat 1: goodman00567 (515 in chips) 
+Seat 3: ValenciaPL (985 in chips) 
+ValenciaPL: posts small blind 15
+goodman00567: posts big blind 30
+*** HOLE CARDS ***
+Dealt to ValenciaPL [Qh 6c]
+ValenciaPL: raises 30 to 60
+goodman00567: calls 30
+*** FLOP *** [Js 9d Ts]
+goodman00567: bets 60
+ValenciaPL: calls 60
+*** TURN *** [Js 9d Ts] [Kh]
+goodman00567: bets 395 and is all-in
+ValenciaPL: calls 395
+*** RIVER *** [Js 9d Ts Kh] [Ad]
+*** SHOW DOWN ***
+goodman00567: shows [8h Ah] (a pair of Aces)
+ValenciaPL: shows [Qh 6c] (a straight, Ten to Ace)
+ValenciaPL collected 1030 from pot
+goodman00567 finished the tournament in 2nd place
+ValenciaPL wins the tournament and receives $90.00 - congratulations!
+*** SUMMARY ***
+Total pot 1030 | Rake 0 
+Board [Js 9d Ts Kh Ad]
+Seat 1: goodman00567 (big blind) showed [8h Ah] and lost with a pair of Aces
+Seat 3: ValenciaPL (button) (small blind) showed [Qh 6c] and won (1030) with a straight, Ten to Ace
+
+
+PokerStars Hand #203854495257: Tournament #2685584612, $28.20+$1.80 USD Hold'em No Limit - Level I (10/20) - 2019/09/01 18:36:42 ET
+Table '2685584612 1' 3-max Seat #3 is the button
+Seat 1: goodman00567 (510 in chips) 
+Seat 2: mundiale (520 in chips) 
+Seat 3: ValenciaPL (470 in chips) 
+goodman00567: posts small blind 10
+mundiale: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ValenciaPL [8d Ad]
+ValenciaPL: raises 20 to 40
+goodman00567: folds 
+mundiale: calls 20
+*** FLOP *** [8h 3h 3c]
+mundiale: checks 
+ValenciaPL: bets 30
+mundiale: raises 80 to 110
+ValenciaPL: raises 320 to 430 and is all-in
+mundiale: calls 320
+*** TURN *** [8h 3h 3c] [Td]
+*** RIVER *** [8h 3h 3c Td] [Qc]
+*** SHOW DOWN ***
+mundiale: shows [8s Jd] (two pair, Eights and Threes)
+ValenciaPL: shows [8d Ad] (two pair, Eights and Threes - Ace kicker)
+ValenciaPL collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Board [8h 3h 3c Td Qc]
+Seat 1: goodman00567 (small blind) folded before Flop
+Seat 2: mundiale (big blind) showed [8s Jd] and lost with two pair, Eights and Threes
+Seat 3: ValenciaPL (button) showed [8d Ad] and won (950) with two pair, Eights and Threes
+
+PokerStars Hand #203854514629: Tournament #2685584612, $28.20+$1.80 USD Hold'em No Limit - Level I (10/20) - 2019/09/01 18:37:22 ET
+Table '2685584612 1' 3-max Seat #1 is the button
+Seat 1: goodman00567 (500 in chips) 
+Seat 2: mundiale (50 in chips) 
+Seat 3: ValenciaPL (950 in chips) 
+mundiale: posts small blind 10
+ValenciaPL: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ValenciaPL [Ac 5s]
+goodman00567: folds 
+mundiale: raises 30 to 50 and is all-in
+ValenciaPL: calls 30
+*** FLOP *** [6c As 7h]
+*** TURN *** [6c As 7h] [Ts]
+*** RIVER *** [6c As 7h Ts] [Qd]
+*** SHOW DOWN ***
+mundiale: shows [6h Kd] (a pair of Sixes)
+ValenciaPL: shows [Ac 5s] (a pair of Aces)
+ValenciaPL collected 100 from pot
+mundiale finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [6c As 7h Ts Qd]
+Seat 1: goodman00567 (button) folded before Flop (didn't bet)
+Seat 2: mundiale (small blind) showed [6h Kd] and lost with a pair of Sixes
+Seat 3: ValenciaPL (big blind) showed [Ac 5s] and won (100) with a pair of Aces
+
+PokerStars Hand #203854523569: Tournament #2685584612, $28.20+$1.80 USD Hold'em No Limit - Level I (10/20) - 2019/09/01 18:37:40 ET
+Table '2685584612 1' 3-max Seat #3 is the button
+Seat 1: goodman00567 (500 in chips) 
+Seat 3: ValenciaPL (1000 in chips) 
+ValenciaPL: posts small blind 10
+goodman00567: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ValenciaPL [Kh 5s]
+ValenciaPL: raises 20 to 40
+goodman00567: raises 460 to 500 and is all-in
+ValenciaPL: folds 
+Uncalled bet (460) returned to goodman00567
+goodman00567 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: goodman00567 (big blind) collected (80)
+Seat 3: ValenciaPL (button) (small blind) folded before Flop
+
+PokerStars Hand #203854527978: Tournament #2685584612, $28.20+$1.80 USD Hold'em No Limit - Level I (10/20) - 2019/09/01 18:37:49 ET
+Table '2685584612 1' 3-max Seat #1 is the button
+Seat 1: goodman00567 (540 in chips) 
+Seat 3: ValenciaPL (960 in chips) 
+goodman00567: posts small blind 10
+ValenciaPL: posts big blind 20
+*** HOLE CARDS ***
+Dealt to ValenciaPL [Td 2s]
+goodman00567: folds 
+Uncalled bet (10) returned to ValenciaPL
+ValenciaPL collected 20 from pot
+ValenciaPL: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: goodman00567 (button) (small blind) folded before Flop
+Seat 3: ValenciaPL (big blind) collected (20)

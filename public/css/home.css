@@ -1,0 +1,31 @@
+body {
+    background: gray;
+    height: auto;
+}
+
+.login-box {
+    max-width: 400px;
+    float: none;
+    margin: 10% auto;
+    height: auto;
+    overflow: inherit;
+    padding: 50px 20px 10px;
+    border-radius: 5px;
+    background: rgb(255, 255, 255);
+}
+
+.login-box img {
+    margin-bottom: 10%;
+    width: 100px;
+    height: 100px;
+}
+
+@media(max-width: 768px) {
+    .login-box {
+        margin-top: 20vh;
+    }
+    .login-box img {
+        width: 80px;
+        height: 80px;
+    }
+}
